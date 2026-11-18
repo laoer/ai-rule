@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN,browser-intake-us5-datadoghq.com
+  - DOMAIN,datadoghq.com
   - DOMAIN-KEYWORD,datadog
   - DOMAIN-KEYWORD,sift
   # 客服 / 第三方 widget
